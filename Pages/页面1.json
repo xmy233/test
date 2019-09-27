@@ -5,16 +5,96 @@
   "Cols": {
     "Count": 60
   },
-  "StyleDatas": {
-    "Types": {
-      "Strs": [
-        "Body"
-      ]
-    },
-    "SheetStyle": {
-      "FontFamily": 0
+  "AttachInfos": {
+    "7,33": {
+      "ListViewInfo": {
+        "ShowColumnHeaderInDesigner": true,
+        "RowIndex": 7,
+        "ColumnIndex": 33,
+        "ColumnCount": 7,
+        "RowCount": 5,
+        "AllowEditInListview": true,
+        "AllowAddNewRow": true,
+        "ShowDeleteButton": true,
+        "ColumnOperation": 2,
+        "ShowGridLine": true,
+        "Name": "表格1",
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2"
+      }
     }
   },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "BorderTop": 0,
+        "BorderLeft": 0
+      },
+      {
+        "BorderTop": 0
+      },
+      {
+        "BorderTop": 0,
+        "BorderRight": 0
+      },
+      {
+        "BorderLeft": 0
+      },
+      {
+        "BorderRight": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderLeft": 0
+      },
+      {
+        "BorderBottom": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderRight": 0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "DarkGray",
+        "Body"
+      ],
+      "Borders": [
+        {
+          "Color": 0
+        }
+      ]
+    },
+    "CellStyles": {
+      "7,33": 0,
+      "7,34": 1,
+      "7,35": 1,
+      "7,36": 1,
+      "7,37": 1,
+      "7,38": 1,
+      "7,39": 2,
+      "8,33": 3,
+      "8,39": 4,
+      "9,33": 3,
+      "9,39": 4,
+      "10,33": 3,
+      "10,39": 4,
+      "11,33": 5,
+      "11,34": 6,
+      "11,35": 6,
+      "11,36": 6,
+      "11,37": 6,
+      "11,38": 6,
+      "11,39": 7
+    },
+    "SheetStyle": {
+      "FontFamily": 1
+    }
+  },
+  "Spans": [
+    "9,33,3,7"
+  ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.NormalPage, Forguncy",
     "AuthorizeInfo": {
